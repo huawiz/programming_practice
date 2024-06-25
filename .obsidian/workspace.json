@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/lc20240624.md",
+                "file": "log/lc20240625.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/lc20240624.md",
+                "file": "log/lc20240625.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/lc20240624.md",
+                "file": "log/lc20240625.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/lc20240624.md"
+                "file": "log/lc20240625.md"
               }
             }
           },
@@ -170,8 +170,12 @@
   },
   "active": "067f5303b257a390",
   "lastOpenFiles": [
-    "未命名.md",
     "log/lc20240624.md",
+    "log/lc20240625.md",
+    "391E9E10",
+    "D7689E10",
+    "63389E10",
+    "未命名.md",
     "README.md",
     "2024-06-24.md",
     "log"
