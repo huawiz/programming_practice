@@ -1,4 +1,6 @@
 {
   "theme": "moonstone",
-  "cssTheme": "Blue Topaz"
+  "cssTheme": "PLN",
+  "baseFontSize": 22,
+  "baseFontSizeAction": false
 }
