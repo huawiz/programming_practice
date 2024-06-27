@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/lc20240624.md",
+                "file": "log/lc20240627.md",
                 "mode": "source",
                 "source": false
               }
@@ -68,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/lc20240626.md",
+                "file": "log/lc20240627.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/lc20240626.md",
+                "file": "log/lc20240627.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/lc20240626.md"
+                "file": "log/lc20240627.md"
               }
             }
           },
@@ -204,25 +204,26 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "ab266f0fa1f04590",
+  "active": "067f5303b257a390",
   "lastOpenFiles": [
+    "README.md",
+    "log/lc20240627.md",
+    "3468A820",
+    "1628A820",
+    "log/lc20240626.md",
+    "log/lc20240624.md",
+    "log/lc20240625.md",
     "course/你所不知道的C語言/學習紀錄.md",
     "course/你所不知道的C語言/README.md",
-    "README.md",
     "7C3E3620",
     "@sysprog/c-programming.md",
     "@sysprog",
-    "log/lc20240624.md",
     "course/你所不知道的C語言",
     "course",
-    "log/lc20240626.md",
-    "log/lc20240625.md",
     "06947320",
     "57A37320",
     "391E9E10",
     "D7689E10",
-    "63389E10",
-    "2024-06-24.md",
-    "log"
+    "2024-06-24.md"
   ]
 }
