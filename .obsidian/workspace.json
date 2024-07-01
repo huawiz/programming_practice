@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "log/lc20240701.md",
+                "file": "course/CMU15-213(CSAPP)/note.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "log/lc20240701.md",
+                "file": "course/CMU15-213(CSAPP)/note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "log/lc20240701.md",
+                "file": "course/CMU15-213(CSAPP)/note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "log/lc20240701.md"
+                "file": "course/CMU15-213(CSAPP)/note.md"
               }
             }
           },
@@ -206,8 +206,10 @@
   },
   "active": "60d8da388ce431ca",
   "lastOpenFiles": [
-    "log/lc20240630.md",
     "log/lc20240701.md",
+    "course/CMU15-213(CSAPP)/note.md",
+    "course/CMU15-213(CSAPP)",
+    "log/lc20240630.md",
     "~$LeetCode打卡记录.tmp",
     "log/lc20240627.md",
     "log/lc20240628.md",
@@ -229,7 +231,6 @@
     "@sysprog/c-programming.md",
     "@sysprog",
     "course/你所不知道的C語言",
-    "course",
     "2024-06-24.md"
   ]
 }
