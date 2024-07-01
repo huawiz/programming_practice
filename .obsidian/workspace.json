@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "course/Nand2Tetris/project1.md",
+                "file": "log/lc20240701.md",
                 "mode": "source",
                 "source": false
               }
@@ -62,18 +62,6 @@
               "type": "markdown",
               "state": {
                 "file": "course/你所不知道的C語言/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ab266f0fa1f04590",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "log/lc20240626.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "course/Nand2Tetris/project1.md",
+                "file": "log/lc20240701.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "course/Nand2Tetris/project1.md",
+                "file": "log/lc20240701.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "course/Nand2Tetris/project1.md"
+                "file": "log/lc20240701.md"
               }
             }
           },
@@ -216,24 +204,25 @@
       "command-palette:開啟命令面板": false
     }
   },
-  "active": "2fab90fcbdd379cf",
+  "active": "60d8da388ce431ca",
   "lastOpenFiles": [
+    "log/lc20240630.md",
+    "log/lc20240701.md",
+    "~$LeetCode打卡记录.tmp",
+    "log/lc20240627.md",
+    "log/lc20240628.md",
+    "log/lc20240626.md",
+    "log/lc20240624.md",
+    "log/lc20240625.md",
+    "README.md",
+    "course/Nand2Tetris/project1.md",
     "course/Nand2Tetris/proj1.zip",
     "asset/Pasted image 20240630153543.png",
     "asset",
     "Pasted image 20240630153221.png",
-    "course/Nand2Tetris/project1.md",
-    "log/lc20240630.md",
     "course/Nand2Tetris",
-    "log/lc20240628.md",
-    "README.md",
-    "~$LeetCode打卡记录.tmp",
-    "log/lc20240627.md",
     "3468A820",
     "1628A820",
-    "log/lc20240626.md",
-    "log/lc20240624.md",
-    "log/lc20240625.md",
     "course/你所不知道的C語言/學習紀錄.md",
     "course/你所不知道的C語言/README.md",
     "7C3E3620",
@@ -241,7 +230,6 @@
     "@sysprog",
     "course/你所不知道的C語言",
     "course",
-    "06947320",
     "2024-06-24.md"
   ]
 }
